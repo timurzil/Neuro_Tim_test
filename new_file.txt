@@ -1,1 +1,3 @@
-Test TXT file
+# Test TXT file
+1. Point 1
+2. Point 2
